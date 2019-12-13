@@ -1,2 +1,2 @@
-# PGA.Coach
-PGA.Coach website
+# ReactJS Project
+ReactJS
